@@ -1,0 +1,67 @@
+@import url("https://fonts.googleapis.com/css2?family=Orbitron:wght@500&display=swap");
+
+body {
+  font-family: sans-serif;
+  background-color: #cacaca;
+  color: #272e38;
+}
+
+#div {
+  display: grid;
+  place-content: center;
+  margin-left: 15%;
+  margin-right: 15%;
+  border-radius: 10px;
+}
+#div h1 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 60px;
+  color: #272e38;
+}
+
+#dia {
+  display: grid;
+  place-content: center;
+  background-color: #cacaca;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#dia h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+  color: #272e38;
+}
+
+#franja {
+  display: grid;
+  place-content: center;
+  background-color: #cacaca;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+#franja h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+}
+
+#info {
+  display: grid;
+  place-content: center;
+}
+
+#siguiente {
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+  color: #cacaca;
+}
+#siguiente h2 {
+  font-family: "Orbitron", sans-serif;
+  font-size: 30px;
+}
+
+#reloj {
+  margin: 3%;
+  padding: 3%;
+  background-color: #272e38;
+  border-radius: 10px;
+}
